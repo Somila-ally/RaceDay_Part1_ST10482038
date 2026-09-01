@@ -147,3 +147,8 @@ git remote add origin <your-repo-url>
 git push -u origin main
 ```
 
+## Screenshot of CI/WORKFLOWS
+
+<img width="1908" height="910" alt="Screenshot 2026-09-01 123605" src="https://github.com/user-attachments/assets/5351a423-bca6-4fb2-af76-68ea1f6b1112" />
+
+
