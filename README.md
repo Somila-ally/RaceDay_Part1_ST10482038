@@ -17,3 +17,7 @@ data storage, to be constructed during Part 2 of the POE.
 |---|---|
 | Organiser | Manages and creates Events and Event Categories, views enrolments by Category, and captures/corrects Event Results after the event. |
 | Participant | Accesses events, registers for one or more categories, maintains own profile, and views own enrolments and results. |
+
+Both roles are `Users`, distinguished by `RoleId`. Any user, regardless of
+role, registers, logs in and manages their profile in the same way.
+
