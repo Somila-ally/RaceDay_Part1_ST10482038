@@ -89,3 +89,20 @@ push/PR to `main` and confirms:
 *Add the link to the Part 1 walkthrough video here before submission.*
 
 ---
+## 9. Suggested Commit History (30 commits)
+
+The brief requires 20+ meaningful commits on your own GitHub account. Rather
+than pushing everything in one commit, work through the sequence below —
+each step is a small, logical, real change, in an order that would make
+sense if you were actually building this up. Commit after completing each
+row.
+
+| # | Commit Message | Files Touched |
+|---|---|---|
+| 1 | Initial commit: repository scaffold and .gitignore | `.gitignore` |
+| 2 | Add README with system description | `README.md` |
+| 3 | Add roles section to README | `README.md` |
+| 4 | Create docs folder structure | `docs/` |
+| 5 | Add ERD draft: entities and attributes only | `docs/ERD.pdf` |
+| 6 | Add ERD relationships and cardinality | `docs/ERD.pdf` |
+| 7 | Finalise and export ERD to PDF | `docs/ERD.pdf` |
