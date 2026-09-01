@@ -129,3 +129,20 @@ row.
 | 28 | Add GitHub Actions workflow to validate docs structure | `.github/workflows/validate.yml` |
 | 29 | Update README with repository structure and CI/CD section | `README.md` |
 | 30 | Final review: proofread docs, add YouTube demo link, submission polish | `README.md`, `docs/` |
+
+### How to work through this on your own machine
+
+```bash
+git init
+git add .gitignore
+git commit -m "Initial commit: repository scaffold and .gitignore"
+
+# ...repeat: edit a file, then stage and commit it...
+git add README.md
+git commit -m "Add README with system description"
+
+# continue down the table until all 30 commits are done, then:
+git branch -M main
+git remote add origin <your-repo-url>
+git push -u origin main
+```
