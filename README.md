@@ -58,3 +58,9 @@ Authentication, User Profile, Events, Categories, Event Enrolments and
 Results.
 
 ---
+
+## 6. SQL Database Script
+
+`docs/database.sql` is a single T-SQL script for SQL Server Management Studio
+(SSMS). It creates every table in the ERD with all primary keys, foreign
+keys and constraints, then seeds:
