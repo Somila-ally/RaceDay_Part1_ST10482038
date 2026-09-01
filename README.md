@@ -117,3 +117,11 @@ row.
 | 16 | Add database.sql skeleton: database creation | `docs/database.sql` |
 | 17 | Add Roles and Users table definitions | `docs/database.sql` |
 | 18 | Add Events table definition | `docs/database.sql` |
+| 19 | Add Categories table definition | `docs/database.sql` |
+| 20 | Add Enrolments table definition | `docs/database.sql` |
+| 21 | Add Results table definition | `docs/database.sql` |
+| 22 | Add seed data for Roles and Users | `docs/database.sql` |
+| 23 | Add seed data for Events | `docs/database.sql` |
+| 24 | Add seed data for Categories | `docs/database.sql` |
+| 25 | Add seed data for Enrolments | `docs/database.sql` |
+| 26 | Add seed data for Results | `docs/database.sql` |
