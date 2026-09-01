@@ -41,3 +41,11 @@ role, registers, logs in and manages their profile in the same way.
 See `docs/ERD.pdf` for the full diagram, covering all six entities — Roles,
 Users, Events, Categories, Enrolments and Results — with all attributes,
 primary keys, foreign keys and cardinalities.
+
+Summary of relationships:
+
+- Roles (1) — (Many) Users
+- Users/Organiser (1) — (Many) Events
+- Events (1) — (Many) Categories
+- Users/Participant (Many) — (Many) Categories, via the `Enrolments` junction table
+- Enrolments (1) — (1) Results
