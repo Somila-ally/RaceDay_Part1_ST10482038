@@ -35,3 +35,9 @@ role, registers, logs in and manages their profile in the same way.
 ├── .gitignore
 └── README.md
 ```
+
+## 4. Entity Relationship Diagram
+
+See `docs/ERD.pdf` for the full diagram, covering all six entities — Roles,
+Users, Events, Categories, Enrolments and Results — with all attributes,
+primary keys, foreign keys and cardinalities.
