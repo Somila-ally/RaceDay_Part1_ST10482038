@@ -72,3 +72,14 @@ keys and constraints, then seeds:
 
 It matches the ERD exactly and runs cleanly on a fresh SQL Server instance,
 from top to bottom.
+
+## 7. GitHub & CI/CD
+
+All planning docs and the SQL script are committed under `/docs`. The
+GitHub Actions workflow at `.github/workflows/validate.yml` runs on every
+push/PR to `main` and confirms:
+
+- The `/docs` folder exists
+- `ERD.pdf`, `API_Endpoint_Plan.md` and `database.sql` are present
+- `README.md` exists and covers the required sections
+- `database.sql` creates every required table
