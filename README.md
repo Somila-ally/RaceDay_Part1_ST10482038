@@ -125,3 +125,7 @@ row.
 | 24 | Add seed data for Categories | `docs/database.sql` |
 | 25 | Add seed data for Enrolments | `docs/database.sql` |
 | 26 | Add seed data for Results | `docs/database.sql` |
+| 27 | Add quick verification queries to database.sql | `docs/database.sql` |
+| 28 | Add GitHub Actions workflow to validate docs structure | `.github/workflows/validate.yml` |
+| 29 | Update README with repository structure and CI/CD section | `README.md` |
+| 30 | Final review: proofread docs, add YouTube demo link, submission polish | `README.md`, `docs/` |
