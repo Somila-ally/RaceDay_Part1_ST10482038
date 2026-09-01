@@ -7,3 +7,7 @@ administering running events (such as a Marathon, Fun Run or Trail event).
 Each event can be split into one or more categories (such as 5 km, 10 km or
 Half Marathon). Participants register for a category of their choice, and
 results can be viewed once the organiser has recorded them on race day.
+
+The system is designed to be REST API-based, with a SQL Server database for
+data storage, to be constructed during Part 2 of the POE.
+
