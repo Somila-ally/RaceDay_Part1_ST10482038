@@ -11,3 +11,9 @@ results can be viewed once the organiser has recorded them on race day.
 The system is designed to be REST API-based, with a SQL Server database for
 data storage, to be constructed during Part 2 of the POE.
 
+## 2. Roles
+
+| Role | Description |
+|---|---|
+| Organiser | Manages and creates Events and Event Categories, views enrolments by Category, and captures/corrects Event Results after the event. |
+| Participant | Accesses events, registers for one or more categories, maintains own profile, and views own enrolments and results. |
