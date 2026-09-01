@@ -64,3 +64,8 @@ Results.
 `docs/database.sql` is a single T-SQL script for SQL Server Management Studio
 (SSMS). It creates every table in the ERD with all primary keys, foreign
 keys and constraints, then seeds:
+
+- 2 Organisers and 2 Participants
+- 3 Events
+- Categories for each event
+- Sample enrolments and one sample result
