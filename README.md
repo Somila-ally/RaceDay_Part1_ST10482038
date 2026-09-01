@@ -21,3 +21,17 @@ data storage, to be constructed during Part 2 of the POE.
 Both roles are `Users`, distinguished by `RoleId`. Any user, regardless of
 role, registers, logs in and manages their profile in the same way.
 
+## 3. Repository Structure
+
+```
+.
+├── docs/
+│   ├── ERD.pdf                 # Entity Relationship Diagram (all 6 entities)
+│   ├── API_Endpoint_Plan.md    # Full REST API endpoint plan
+│   └── database.sql            # T-SQL script: schema + seed data
+├── .github/
+│   └── workflows/
+│       └── validate.yml        # CI check that the planning artifacts exist
+├── .gitignore
+└── README.md
+```
