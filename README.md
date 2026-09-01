@@ -83,3 +83,9 @@ push/PR to `main` and confirms:
 - `ERD.pdf`, `API_Endpoint_Plan.md` and `database.sql` are present
 - `README.md` exists and covers the required sections
 - `database.sql` creates every required table
+
+## 8. YouTube Demonstration
+
+*Add the link to the Part 1 walkthrough video here before submission.*
+
+---
