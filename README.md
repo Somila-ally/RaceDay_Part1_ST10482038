@@ -49,3 +49,12 @@ Summary of relationships:
 - Events (1) — (Many) Categories
 - Users/Participant (Many) — (Many) Categories, via the `Enrolments` junction table
 - Enrolments (1) — (1) Results
+
+
+## 5. API Endpoint Plan
+
+See `docs/API_Endpoint_Plan.md` for the complete set of endpoints, covering
+Authentication, User Profile, Events, Categories, Event Enrolments and
+Results.
+
+---
