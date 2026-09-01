@@ -69,3 +69,6 @@ keys and constraints, then seeds:
 - 3 Events
 - Categories for each event
 - Sample enrolments and one sample result
+
+It matches the ERD exactly and runs cleanly on a fresh SQL Server instance,
+from top to bottom.
