@@ -106,3 +106,14 @@ row.
 | 5 | Add ERD draft: entities and attributes only | `docs/ERD.pdf` |
 | 6 | Add ERD relationships and cardinality | `docs/ERD.pdf` |
 | 7 | Finalise and export ERD to PDF | `docs/ERD.pdf` |
+| 8 | Add API_Endpoint_Plan.md skeleton with headings | `docs/API_Endpoint_Plan.md` |
+| 9 | Add Authentication endpoints to API plan | `docs/API_Endpoint_Plan.md` |
+| 10 | Add User Profile endpoints to API plan | `docs/API_Endpoint_Plan.md` |
+| 11 | Add Events endpoints to API plan | `docs/API_Endpoint_Plan.md` |
+| 12 | Add Categories endpoints to API plan | `docs/API_Endpoint_Plan.md` |
+| 13 | Add Event Enrolments endpoints to API plan | `docs/API_Endpoint_Plan.md` |
+| 14 | Add Results endpoints to API plan | `docs/API_Endpoint_Plan.md` |
+| 15 | Add ERD relationship summary to API plan | `docs/API_Endpoint_Plan.md` |
+| 16 | Add database.sql skeleton: database creation | `docs/database.sql` |
+| 17 | Add Roles and Users table definitions | `docs/database.sql` |
+| 18 | Add Events table definition | `docs/database.sql` |
