@@ -85,7 +85,9 @@ push/PR to `main` and confirms:
 - `database.sql` creates every required table
 
 ## 8. YouTube Demonstration
-
+https://youtu.be/zTgRwWifCdE
+https://youtu.be/J7pemMEwK0I
+https://youtu.be/l1gGdEvmDCw
 *Add the link to the Part 1 walkthrough video here before submission.*
 
 ---
